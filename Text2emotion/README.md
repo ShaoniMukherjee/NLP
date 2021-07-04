@@ -1,5 +1,8 @@
 ## This package will help you discover the emotions in textual messages
 
+![image](https://user-images.githubusercontent.com/40633817/124376316-16d9b800-dcc4-11eb-8635-2239011fed16.png)
+
+
 Emotion is the state of mind that is aligned with feelings, and thoughts usually directed toward a specific object. Emotion is a behavior that reflects personal significance or opinion regarding the interaction we have with other human beings or related to a certain event. The human being is able to identify the emotions from textual data and can understand the matter of the text. But if you think about the machines, can they able to identify the emotions from the text?
 
 1. What is text2emotion?
