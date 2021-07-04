@@ -8,9 +8,7 @@ If I want to tell you in simple words then consider if the customer did not like
 Let’s conclude this, Text2Emotion is the python package that will assist you to pull out the emotions from the content.
 Processes any textual data, recognizes the emotion embedded in it, and provides the output in the form of a dictionary.
 Well suited with 5 basic emotion categories such as Happy, Angry, Sad, Surprise, and Fear.
-
-
-
+![image](https://user-images.githubusercontent.com/40633817/124376287-d7ab6700-dcc3-11eb-83c9-8132adf79f79.png)
 3. Industry Use Case Details
 Consider as an organization, we always concern about the opinions, feedback, or improvements from the customers. What does the customer think about our product? he may be happy or sad or angry also because of the services provided by the organization you never know about it. This is the condition where text2emotion can be your savior. Here, I will discuss two real industry use cases.
 E-Commerce Industry: Customer Engagement Endpoint
